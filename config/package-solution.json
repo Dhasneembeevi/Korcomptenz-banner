@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "bullet-in-welcome-banner-webpart",
+    "id": "8b927683-303f-458d-be56-21e49aac3138",
+    "version": "1.0.2.1",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    },
+
+    "features": [
+      {
+        "title": "assetsprovisioning-solution",
+        "description": "assetsprovisioning-solution",
+        "id": "7394ba2f-1cfa-4a5d-b238-51d5422f0f7c",
+        "version": "1.0.0.7",
+        "assets": {
+          "elementManifests": ["element.xml"]
+        }
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/bullet-in-welcome-banner-webpart.sppkg"
+  }
+}

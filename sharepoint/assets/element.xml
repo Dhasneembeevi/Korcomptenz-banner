@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+    <ListInstance   
+            FeatureId="00BFEA71-E717-4E80-AA17-D0C71B360101"  
+            Title="WelcomeBanner"   
+            Description="New Welcome Banner"  
+            TemplateType="101"  
+            Url="Lists/WelcomeBanner">  
+    </ListInstance>  
+</Elements>
